@@ -59,7 +59,7 @@ export default function Login() {
   };
 
   return (
-    <div className="container mx-auto w-[400px] grid gap-4">
+    <div className="container mx-auto w-[400px] grid gap-4 ">
       {!resetPassword && (
         <div className="grid gap-4">
           <div className="grid">
